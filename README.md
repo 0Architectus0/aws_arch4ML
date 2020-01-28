@@ -1,4 +1,4 @@
-# Architecting for M: Timeseries Forecasting for Oklahoma
+# Architecting for ML: Timeseries Forecasting for Oklahoma Solar
 
 To predict the total daily incoming solar energy at 98 Oklahoma Mesonet sites
 
